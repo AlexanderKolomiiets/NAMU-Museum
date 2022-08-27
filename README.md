@@ -1,6 +1,6 @@
 # NAMU Museum Landing page
 
-- [DEMO LINK](https://alexanderkolomiiets.github.io/NAMU-Museum/)
+- [PREVIEW LINK](https://alexanderkolomiiets.github.io/NAMU-Museum/)
 - [DESIGN](https://www.figma.com/file/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323%3A1957)
 
 Site is developed for:
